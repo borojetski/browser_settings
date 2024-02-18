@@ -73,6 +73,8 @@ www.lifewire.com##.jw-reset.jw-media
 
 ! 2023-11-28 https://slickdeals.net
 ||slickdeals.net/attachment/9/9/9/5/3/3/2/200x200/14626315.thumb$image
+slickdeals.net###\31 29a5be60474e853dffcd41c73bb85ea > div.frontpageMobileRecommendationCarousel
+slickdeals.net###bb43a41933fca1eadb21205f6b1f15c2 > header.slickdealsHeader > small.slickdealsHeader__disclaimer:last-child
 
 ! 2023-11-29 https://bananarepublicfactory.gapfactory.com
 bananarepublicfactory.gapfactory.com###promoDrawer__contentWrapper
@@ -244,3 +246,11 @@ drive.google.com##.bwAv4d
 ! 2024-02-09 https://www.reddit.com
 www.reddit.com##.ZLsbIthTKUHOvUiC24Rjy._2X4xugrTQ5e3TVxPPEHqGh
 
+washingtonpost.com###__next > div.PJLV.undefined.wpds-c-jzZaaA:nth-child(11) > nav.z-7.header-nav.flex.hide-for-print.items-center.justify-center.w-100.border-box.relative.bg-white.b.bb.PJLV
+barnesandnoble.com###rhf_header_element > div.rhf-overline-carousal:first-child > div.container > div.row > div.rhf-overline-slider.col-md-8:nth-child(2) > div.carousel-root > div.carousel.carousel-slider
+joyofcode.xyz##div:first-child > div:first-child > div.layout.svelte-nxjmi9:last-child > div:first-child > main > aside.svelte-1qfvy0d:nth-child(2) > section > button.sidebar-toggle.svelte-1qfvy0d
+joyofcode.xyz##div:first-child > div:first-child > header.svelte-2uj0cb.sticky:first-child
+blog.arashtad.com###chaty-widget-0 > div.chaty-widget.left-position > div.chaty-channels > div.chaty-i-trigger:last-child > div.chaty-channel.chaty-cta-main.chaty-tooltip.has-on-hover.pos-right.active:first-child
+health.clevelandclinic.org##div.flex.\[\@media\(min-width\:1200px\)\]\:hidden.justify-center.fixed.bottom-0.left-0.z-\[5\].bg-white.w-full.pb-rem24px.pt-\[1\.25rem\]:nth-child(41) > div.container
+imgur.com###root > div > div.desktop-app.App:first-child > div.GalleryPage.Cover.GalleryCover > div.Gallery-EngagementBar:nth-child(6)
+imgur.com###root > div > div.desktop-app.App:first-child > div.GalleryPage.Cover.GalleryCover > div.Navbar.HomeNavbar.active.isTop:nth-child(4)
