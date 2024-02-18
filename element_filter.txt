@@ -1,0 +1,246 @@
+! 2022-09-14 https://www.codewars.com
+www.codewars.com##[href^="/ads/carbon_srv"]
+www.codewars.com##.cw-ad__callout
+
+! 2023-05-10 https://www.sitepoint.com
+www.sitepoint.com##.s27361g
+
+! 2023-05-12 https://stackoverflow.com
+stackoverflow.com##.m0.p0.d-block
+stackoverflow.com##.sidebar-related.module
+stackoverflow.com##.show-votes
+stackoverflow.com##.ps-relative.js-pinned-left-sidebar.left-sidebar
+
+! 2023-05-24 https://www.linkedin.com
+www.linkedin.com###feed-news-module
+
+! 2023-06-29 https://relay.firefox.com
+relay.firefox.com##.Banner_title-and-large-cta-wrapper__eMeq2
+relay.firefox.com##.Banner_highlight-wrapper__uUST1
+relay.firefox.com##.Tips_card__Y_a5s
+
+! 2023-06-29 https://stackoverflow.com
+stackoverflow.com##.js-top-bar.l0.t0.ps-fixed.s-topbar
+stackoverflow.com##.sm\:as-end.sm\:order-first.sm\:mb12.sm\:ml0.print\:d-none.flex--item.aside-cta.ml12 > .s-btn__primary.s-btn.ws-nowrap
+
+! 2023-06-29 https://github.com
+github.com##.js-notice.BorderGrid-row > .BorderGrid-cell
+
+! 2023-07-15 https://stackoverflow.com
+stackoverflow.com##.sm\:ai-center.sm\:fd-row.md\:fd-column.lg\:pr24.lg\:pl24.ai-center.jc-space-between.py12.px8.mx-auto.wmx12.d-flex
+
+! 2023-07-15 https://www.dndbeyond.com
+www.dndbeyond.com##.ddb-site-banner
+www.dndbeyond.com##.site-bar
+www.dndbeyond.com##.mm-mega-menu
+www.dndbeyond.com##.ddb-footer
+www.dndbeyond.com##.privacy-policy-notice
+www.dndbeyond.com##.page-header
+www.dndbeyond.com##.ddb-collapsible-filter__box
+www.dndbeyond.com##.ddb-collapsible__header.j-collapsible__trigger
+
+! 2023-07-22 https://relay.firefox.com
+relay.firefox.com##.is-hidden-with-addon.Banner_promo__9IVGf.Banner_banner__29uGU
+relay.firefox.com##div.Banner_promo__9IVGf.Banner_banner__29uGU:nth-of-type(1)
+relay.firefox.com##.Tips_card__KH68P
+
+! 2023-07-31 https://www.amazon.com
+www.amazon.com##.pd_rd_r-8de53606-c940-4a9f-b10a-7ef429bc67a3.pd_rd_w-6XM8r.pd_rd_wg-uSXD0.celwidget.desktop-gateway-atf_7c2a8e11-21a0-46b5-a65e-d58b72a4d484.csm-placement-id-5af45aa7-715b-4ed8-811b-7f9befef5ba2.gw-col
+www.amazon.com###a-page > .a-spacing-none.a-section
+www.amazon.com###rhf-shoveler
+
+! 2023-08-11 https://blog.logrocket.com
+blog.logrocket.com##.nav-up.mediumnavigation.fixed-top.bg-white.navbar-light
+blog.logrocket.com##.sidebar
+blog.logrocket.com##.nav-down.mediumnavigation.fixed-top.bg-white.navbar-light
+
+! 2023-08-11 https://alternativeto.net
+alternativeto.net##.rr8qe2rjukjl
+
+! 2023-08-16 https://www.newegg.com
+www.newegg.com##.floating-right-tools
+
+! 2023-11-03 https://www.spectrum.net
+||d15yx0mnc9teae.cloudfront.net/sites/default/files/2023-10/SSPP_Unauth_HP_Xumo_Launch_D.png$image
+||d15yx0mnc9teae.cloudfront.net/sites/default/files/2023-10/OCT_Unauth_HP_Xumo_2560x1200_D.png$image
+www.spectrum.net##.ng-star-inserted.cms-hero-banner > .kite-typography > .ng-star-inserted.cms-banner.kite-typography > .ng-star-inserted.kite-card
+www.spectrum.net##.ng-star-inserted.horizontal.banner-wrapper
+
+! 2023-11-26 https://www.lifewire.com
+www.lifewire.com##.mntl-block.mntl-jwplayer-broad__title.comp
+www.lifewire.com##.jw-reset.jw-video
+www.lifewire.com##.jw-reset.jw-media
+
+! 2023-11-28 https://slickdeals.net
+||slickdeals.net/attachment/9/9/9/5/3/3/2/200x200/14626315.thumb$image
+
+! 2023-11-29 https://bananarepublicfactory.gapfactory.com
+bananarepublicfactory.gapfactory.com###promoDrawer__contentWrapper
+
+! 2023-12-03 https://www.geeksforgeeks.org
+www.geeksforgeeks.org##.login-modal-div > .modal-content
+
+! 2023-12-12 https://typehero.dev
+typehero.dev##.md\:max-w-\[800px\].dark\:bg-zinc-900.duration-300.text-center.p-4.bg-zinc-200.rounded-sm.overflow-hidden.justify-center.items-center.flex-col.w-full.flex.relative.group\/card
+
+! 2024-01-11 https://web.archive.org
+web.archive.org##.is-dark.navbar
+web.archive.org###article-share-buttons
+
+! 2024-01-21 https://www.learndatasci.com
+www.learndatasci.com##.stuck.active-bar.navbar-fixed-top.navbar
+
+! 2024-01-22 https://careers.gmr.net
+||cdn-us.altrulabs.com/uploads/production/client-439/videos/video-12737060/video_12737060_3dtVjXFwYXMZ65mPkKSYzQ.mp4$media
+careers.gmr.net###altru-widget-12003340-1-container
+
+! 2024-01-27 https://blog.logrocket.com
+blog.logrocket.com##.content-max-width.nav-bar-sticky
+
+! 2024-02-02 https://www.lifewire.com
+www.lifewire.com##.jw-reset.jw-wrapper > .jw-reset.jw-aspect
+
+! 2024-02-03 https://www.walmart.com
+www.walmart.com##.z5.flex-column.flex.buy-box-column > div.relative > .h-100.flex-column.undefined.flex > .relative.h-100
+
+! 2024-02-04 https://app.spline.design
+app.spline.design##._container_13m8r_1
+
+! 2024-02-05 https://healthtechmagazine.net
+healthtechmagazine.net##.hdr-top
+healthtechmagazine.net##.hdr-btm
+
+! 2024-02-07 https://superuser.com
+superuser.com###onetrust-consent-sdk
+
+! 2024-02-07 https://www.cookieserve.com
+www.cookieserve.com##.stick_container
+
+! 2024-02-10 https://www.reddit.com
+www.reddit.com##div._2vEf-C2keJaBMY9qk_BxVn:nth-of-type(4)
+
+! Title: Hide YouTube Shorts
+! Description: Hide all traces of YouTube shorts videos on YouTube
+! Version: 1.8.0
+! Last modified: 2023-01-08 20:02
+! Expires: 2 weeks (update frequency)
+! Homepage: https://github.com/gijsdev/ublock-hide-yt-shorts
+! License: https://github.com/gijsdev/ublock-hide-yt-shorts/blob/master/LICENSE.md
+
+! Hide all videos containing the phrase "#shorts"
+youtube.com##ytd-grid-video-renderer:has(#video-title:has-text(#shorts))
+youtube.com##ytd-grid-video-renderer:has(#video-title:has-text(#Shorts))
+youtube.com##ytd-grid-video-renderer:has(#video-title:has-text(#short))
+youtube.com##ytd-grid-video-renderer:has(#video-title:has-text(#Short))
+
+! Hide all videos with the shorts indicator on the thumbnail
+youtube.com##ytd-grid-video-renderer:has([overlay-style="SHORTS"])
+youtube.com##ytd-rich-item-renderer:has([overlay-style="SHORTS"])
+youtube.com##ytd-video-renderer:has([overlay-style="SHORTS"])
+youtube.com##ytd-item-section-renderer.ytd-section-list-renderer[page-subtype="subscriptions"]:has(ytd-video-renderer:has([overlay-style="SHORTS"]))
+
+! Hide shorts button in sidebar
+youtube.com##ytd-guide-entry-renderer:has-text(Shorts)
+youtube.com##ytd-mini-guide-entry-renderer:has-text(Shorts)
+
+! Hide shorts section on homepage
+youtube.com##ytd-rich-section-renderer:has(#rich-shelf-header:has-text(Shorts))
+youtube.com##ytd-reel-shelf-renderer:has(.ytd-reel-shelf-renderer:has-text(Shorts))
+
+! Hide shorts tab on channel pages
+! Old style
+youtube.com##tp-yt-paper-tab:has(.tp-yt-paper-tab:has-text(Shorts))
+! New style (2023-10)
+youtube.com##yt-tab-shape:has-text(/^Shorts$/)
+
+! Hide shorts in video descriptions
+youtube.com##ytd-reel-shelf-renderer.ytd-structured-description-content-renderer:has-text("Shorts remixing this video")
+
+! Remove empty spaces in grid
+youtube.com##ytd-rich-grid-row,#contents.ytd-rich-grid-row:style(display: contents !important)
+
+
+!!! MOBILE !!!
+
+! Hide all videos in home feed containing the phrase "#shorts"
+m.youtube.com##ytm-rich-item-renderer:has(#video-title:has-text(#shorts))
+m.youtube.com##ytm-rich-item-renderer:has(#video-title:has-text(#Shorts))
+m.youtube.com##ytm-rich-item-renderer:has(#video-title:has-text(#short))
+m.youtube.com##ytm-rich-item-renderer:has(#video-title:has-text(#Short))
+
+! Hide all videos in subscription feed containing the phrase "#shorts"
+m.youtube.com##ytm-item-section-renderer:has(#video-title:has-text(#shorts))
+m.youtube.com##ytm-item-section-renderer:has(#video-title:has-text(#Shorts))
+m.youtube.com##ytm-item-section-renderer:has(#video-title:has-text(#short))
+m.youtube.com##ytm-item-section-renderer:has(#video-title:has-text(#Short))
+
+! Hide shorts button in the bottom navigation bar
+m.youtube.com##ytm-pivot-bar-item-renderer:has(.pivot-shorts)
+
+! Hide all videos with the shorts indicator on the thumbnail
+m.youtube.com##ytm-video-with-context-renderer:has([data-style="SHORTS"])
+
+! Hide shorts sections
+m.youtube.com##ytm-rich-section-renderer:has(ytm-reel-shelf-renderer:has(.reel-shelf-title-wrapper:has-text(Shorts)))
+m.youtube.com##ytm-reel-shelf-renderer.item:has(.reel-shelf-title-wrapper:has-text(Shorts))
+
+! Hide shorts tab on channel pages
+m.youtube.com##.single-column-browse-results-tabs>a:has-text(Shorts)
+
+! 2023-06-29 https://relay.firefox.com
+relay.firefox.com##.Banner_title-and-large-cta-wrapper__eMeq2
+relay.firefox.com##.Banner_highlight-wrapper__uUST1
+relay.firefox.com##.Tips_card__Y_a5s
+
+! 2023-06-29 https://www.reddit.com
+www.reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
+www.reddit.com##._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV._2wqyhtudP4weVGsZdVXJgt > ._3RPJ8hHnfFohktLZca18J6
+www.reddit.com##._3Im6OD67aKo33nql4FpSp_
+
+! 2023-06-29 https://old.reddit.com
+old.reddit.com##.premium-banner
+old.reddit.com##.create.sidebox
+
+! 2023-06-29 https://www.ebay.com
+||ir.ebaystatic.com/pictures/aw/OCS_SelfService/IconSprite_InflowHelp.png$image
+www.ebay.com##.s-feedback-header
+||ir.ebaystatic.com/pictures/aw/OCS_SelfService/IconSprite_InflowHelp.png$image
+
+! 2023-06-29 https://www.reddit.com
+www.reddit.com##._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV._2YJDRz5rCYQfu8YdgB_neb
+
+! 2023-06-29 https://www.moviefone.com
+www.moviefone.com##.header-links-wrap
+www.moviefone.com###mf-content > .desktop
+www.moviefone.com###mf-jwplayer-playlist-extra
+www.moviefone.com###trailer-player
+www.moviefone.com##.trending-bar
+www.moviefone.com###rr-streaming-now
+www.moviefone.com##.rr-social-accounts
+www.moviefone.com##.mf-latest-trailers
+www.moviefone.com##[href^="https://tv.apple.com/channel/tvs.sbd.4000"]
+www.moviefone.com###footer
+
+! 2023-07-02 https://www.dropbox.com
+www.dropbox.com##.home-access-section-suggest-nonempty.home-access-section
+
+! 2023-07-07 https://www.polygon.com
+www.polygon.com##.l-article-body-segment.l-segment.l-sidebar-fixed > .l-col__sidebar
+
+! 2023-07-17 https://www.gigacalculator.com
+www.gigacalculator.com##.flex-wrap.bg-dark.navbar-dark.navbar-expand-md.navbar
+www.gigacalculator.com###rightSidebar
+www.gigacalculator.com###breadcrumb
+www.gigacalculator.com##.additionalContent
+www.gigacalculator.com###related
+www.gigacalculator.com###citebox
+www.gigacalculator.com##footer
+www.gigacalculator.com##.desc
+
+! 2023-07-31 https://drive.google.com
+drive.google.com##.Ss7qXc.wqmZs
+drive.google.com##.bwAv4d
+
+! 2024-02-09 https://www.reddit.com
+www.reddit.com##.ZLsbIthTKUHOvUiC24Rjy._2X4xugrTQ5e3TVxPPEHqGh
+
