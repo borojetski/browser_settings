@@ -256,3 +256,8 @@ blog.arashtad.com###chaty-widget-0 > div.chaty-widget.left-position > div.chaty-
 health.clevelandclinic.org##div.flex.\[\@media\(min-width\:1200px\)\]\:hidden.justify-center.fixed.bottom-0.left-0.z-\[5\].bg-white.w-full.pb-rem24px.pt-\[1\.25rem\]:nth-child(41) > div.container
 imgur.com###root > div > div.desktop-app.App:first-child > div.GalleryPage.Cover.GalleryCover > div.Gallery-EngagementBar:nth-child(6)
 imgur.com###root > div > div.desktop-app.App:first-child > div.GalleryPage.Cover.GalleryCover > div.Navbar.HomeNavbar.active.isTop:nth-child(4)
+
+! 2024-02-27 https://www.wunderground.com
+www.wunderground.com##.ng-star-inserted.purple-air.data-module
+www.wunderground.com##.topbar
+www.wunderground.com##.region-content-severe-alert
