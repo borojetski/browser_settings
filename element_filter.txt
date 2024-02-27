@@ -1,3 +1,6 @@
+! Title: Personal Filters
+! Description: This filter list is for removing annoyances on various websites.
+
 ! 2022-09-14 https://www.codewars.com
 www.codewars.com##[href^="/ads/carbon_srv"]
 www.codewars.com##.cw-ad__callout
