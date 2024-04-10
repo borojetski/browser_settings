@@ -48,7 +48,7 @@ relay.firefox.com##div.Banner_promo__9IVGf.Banner_banner__29uGU:nth-of-type(1)
 relay.firefox.com##.Tips_card__KH68P
 
 ! 2023-07-31 https://www.amazon.com
-www.amazon.com##.pd_rd_r-8de53606-c940-4a9f-b10a-7ef429bc67a3.pd_rd_w-6XM8r.pd_rd_wg-uSXD0.celwidget.desktop-gateway-atf_7c2a8e11-21a0-46b5-a65e-d58b72a4d484.csm-placement-id-5af45aa7-715b-4ed8-811b-7f9befef5ba2.gw-col
+! www.amazon.com##.pd_rd_r-8de53606-c940-4a9f-b10a-7ef429bc67a3.pd_rd_w-6XM8r.pd_rd_wg-uSXD0.celwidget.desktop-gateway-atf_7c2a8e11-21a0-46b5-a65e-d58b72a4d484.csm-placement-id-5af45aa7-715b-4ed8-811b-7f9befef5ba2.gw-col
 www.amazon.com###a-page > .a-spacing-none.a-section
 www.amazon.com###rhf-shoveler
 ! 2024-02-19 https://www.amazon.com
